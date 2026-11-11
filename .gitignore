@@ -1,0 +1,20 @@
+# File đề bài bản PDF - không đẩy lên GitHub
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Dữ liệu tải về khi chạy notebook
+Mall_Customers.csv
+dog.png
+compressed_img*.png
+
+# Hệ điều hành / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
